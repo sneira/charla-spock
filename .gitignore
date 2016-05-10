@@ -18,7 +18,6 @@ cobertura.ser
 .classpath
 .idea/
 *.swp
-*.class
 *.pdf
 git.gsp
 /out
@@ -26,4 +25,3 @@ hs_err_*.log
 /test/drivers/
 chromedriver.log
 /target/
-/out/
